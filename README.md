@@ -4,8 +4,9 @@
 - Ketuhanan yang maha esa
 - Kemanusiaan yang adil dan beradap
 - Persatuan Indonesia
-- Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dan permusyawaratan / keadilan
+- Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan / keadilan
 - Keadilan sosial bagi seluruh rakyat Indonesia
+
 ### Kemerdekaan
 17 Agustus 1945
 
