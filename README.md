@@ -1,4 +1,6 @@
 # My First Git Project
+![Arseus](https://github.com/chrisandoryan/git-project-bni/blob/master/Web_Photo_Editor%20(35).jpg?raw=true)
+
 ## Tentang Indonesia
 ### Pancasila
 - Ketuhanan yang maha esa
